@@ -1,0 +1,26 @@
+<annotation>
+	<folder>disss2</folder>
+	<filename>p474.jpg</filename>
+	<path>C:\disss2\p474.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>448</width>
+		<height>406</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>straight_bar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>160</ymin>
+			<xmax>209</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+</annotation>

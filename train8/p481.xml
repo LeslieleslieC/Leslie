@@ -1,0 +1,26 @@
+<annotation>
+	<folder>disss2</folder>
+	<filename>p481.jpg</filename>
+	<path>C:\disss2\p481.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>414</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>white_in_green</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>204</ymin>
+			<xmax>227</xmax>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+</annotation>
