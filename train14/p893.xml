@@ -1,0 +1,26 @@
+<annotation>
+	<folder>disss2</folder>
+	<filename>p893.jpg</filename>
+	<path>C:\disss2\p893.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>625</width>
+		<height>469</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>straight_bar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>23</ymin>
+			<xmax>615</xmax>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+</annotation>
