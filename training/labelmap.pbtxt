@@ -1,0 +1,49 @@
+item {
+  id: 1
+  name: 'boat_cabin'
+}
+
+item {
+  id: 2
+  name: 'straight_bar'
+}
+
+item {
+  id: 3
+  name: 'white_in_green'
+}
+
+item {
+  id: 4
+  name: 'together_barrel'
+}
+
+item {
+  id: 5
+  name: 'tube'
+}
+
+item {
+  id: 6
+  name: 'more_tube'
+}
+
+item {
+  id: 7
+  name: 'net'
+}
+
+item {
+  id: 8
+  name: 'cuboid'
+}
+
+item {
+  id: 9
+  name: 'wood_together'
+}
+
+item {
+  id: 10
+  name: 'scattered_barrel'
+}
