@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>p117.jpg</filename>
+	<path>C:\Users\Lenovo\models-master\research\object_detection\images\train\p117.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>437</width>
+		<height>419</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cuboid</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>177</ymin>
+			<xmax>269</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+</annotation>

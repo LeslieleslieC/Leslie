@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>p86.jpg</filename>
+	<path>C:\Users\Lenovo\models-master\research\object_detection\images\test\p86.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>343</width>
+		<height>230</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>together_barrel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>94</ymin>
+			<xmax>194</xmax>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
+</annotation>

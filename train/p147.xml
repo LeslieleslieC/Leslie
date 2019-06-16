@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>p147.jpg</filename>
+	<path>C:\Users\Lenovo\models-master\research\object_detection\images\train\p147.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>363</width>
+		<height>255</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tube</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>234</xmin>
+			<ymin>214</ymin>
+			<xmax>312</xmax>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+</annotation>
