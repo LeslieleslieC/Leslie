@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>p127.jpg</filename>
+	<path>C:\Users\Lenovo\models-master\research\object_detection\images\train\p127.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>456</width>
+		<height>422</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>white_in_green</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>261</ymin>
+			<xmax>106</xmax>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+</annotation>
