@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>p564.jpg</filename>
+	<path>C:\Users\Lenovo\models-master\research\object_detection\images\train\p564.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>497</width>
+		<height>428</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tube</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>257</xmin>
+			<ymin>295</ymin>
+			<xmax>355</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>
