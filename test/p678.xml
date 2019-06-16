@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>p678.jpg</filename>
+	<path>C:\Users\Lenovo\models-master\research\object_detection\images\train\p678.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>430</width>
+		<height>445</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>straight_bar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>28</ymin>
+			<xmax>330</xmax>
+			<ymax>81</ymax>
+		</bndbox>
+	</object>
+</annotation>
