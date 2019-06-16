@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>p602.jpg</filename>
+	<path>C:\Users\Lenovo\models-master\research\object_detection\images\test\p602.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>771</width>
+		<height>541</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>boat_cabin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>74</ymin>
+			<xmax>560</xmax>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+</annotation>
