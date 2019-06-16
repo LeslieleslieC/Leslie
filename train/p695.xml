@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>p695.jpg</filename>
+	<path>C:\Users\Lenovo\models-master\research\object_detection\images\train\p695.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>451</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wood_together</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>188</ymin>
+			<xmax>451</xmax>
+			<ymax>307</ymax>
+		</bndbox>
+	</object>
+</annotation>
