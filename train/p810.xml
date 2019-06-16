@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>p810.jpg</filename>
+	<path>C:\Users\Lenovo\models-master\research\object_detection\images\train\p810.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>328</width>
+		<height>417</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scattered_barrel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>60</ymin>
+			<xmax>316</xmax>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+</annotation>
