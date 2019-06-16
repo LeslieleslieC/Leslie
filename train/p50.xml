@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>p50.jpg</filename>
+	<path>C:\Users\Lenovo\models-master\research\object_detection\images\test\p50.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>904</width>
+		<height>274</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scattered_barrel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>105</ymin>
+			<xmax>880</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+</annotation>
